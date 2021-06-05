@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/uzairsh26519610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzairsh26519610" height="30" width="40" /></a>
+<a href="https://twitter.com/uzairsh26519610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzairsh26519610" height="3" width="4" /></a>
 <a href="https://fb.com/uzairsheikh3139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzairsheikh3139" height="30" width="40" /></a>
 <a href="https://instagram.com/uzairshaikh5887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzairshaikh5887" height="30" width="40" /></a>
 <a href="https://discord.gg/1354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1354" height="30" width="40" /></a>
